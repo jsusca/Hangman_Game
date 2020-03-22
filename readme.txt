@@ -4,3 +4,5 @@ Create a program that selects a random word and then allows the user to guess it
 Sub-goals
 - If the user loses, print out the word at the end of the game.
 - Create a "give up" option.
+------
+- Allow user to choose between spanish and english wordlist. (create list of choices user can move through)
